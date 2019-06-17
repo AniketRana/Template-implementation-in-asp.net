@@ -1,0 +1,118 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="Raakesh Rana">
+    <title>Raakesh Rana</title>
+    <link rel="icon" href="images/icon_loop.png" type="image/x-icon" />
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link href="css/animate.min.css" rel="stylesheet">
+    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body class="homepage">
+    <form id="form1" runat="server">
+        <div>
+            <header id="header">
+        <nav class="navbar navbar-fixed-top" role="banner" >
+            <div class="container" >
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="Index.aspx">RR</a>
+                </div>
+				
+                <div class="collapse navbar-collapse navbar-right">
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="Index.aspx">Home</a></li>
+                        <li><a href="AboutUs.aspx">About Us</a></li>
+                        <li><a href="Services.aspx">Services</a></li>
+                        <li><a href="Portfolio.aspx">Portfolio</a></li>
+                        <%--<li><a href="blog.html">Blog</a></li> --%>
+                        <li><a href="ContactUs.aspx">Contact</a></li>                        
+                    </ul>
+                </div>
+            </div><!--/.container-->
+        </nav><!--/nav-->
+		
+    </header>
+            <!--/header-->
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <div>
+            <div class="top-bar">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="social">
+                                <ul class="social-share">
+                                    <li><a target="_blank" href="#"><i style="line-height: 2;" class="fa fa-facebook"></i></a></li>
+                                    <li><a target="_blank" href="#"><i style="line-height: 2;" class="fa fa-twitter"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/in/raakesh-rana-9b86bb12/"><i style="line-height: 2;"
+                                        class="fa fa-linkedin"></i></a></li>
+                                    <%--<li><a href="#"><i class="fa fa-dribbble"></i></a></li>--%>
+                                    <li><a target="_blank" href="#"><i style="line-height: 2;" class="fa fa-skype"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/.container-->
+            </div>
+            <!--/.top-bar-->
+            <footer id="footer" class="midnight-blue">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                <center>
+               Copyright &copy; 2018 <a target="_blank" href="#SS" title="Thought Leadership | Business Transformation | Strategic Value Creator | Coach | Mentor | Learner"><b>Raakesh Rana</b></a>
+                 Design & Develop by <font color="White" ><b> <a href="https://in.linkedin.com/in/aniketrana" >Aniket Rana</a>	</b></font>	 All Rights Reserved.
+                 </center>
+                </div>
+                
+                <%--@ 2018 Coming Soon Raakesh Rana. Designed & Develop by <font color="White" ><b>Aniket Rana	</b></font>	--%>                <!-- 
+
+                    All links in the footer should remain intact. 
+                    Licenseing information is available at: http://bootstraptaste.com/license/
+                    You can buy this theme without footer links online at: http://bootstraptaste.com/buy/?theme=Gp
+                -->
+               <%-- <div class="col-sm-4">
+                    <ul class="pull-right">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">About Us</a></li>
+                        <li><a href="#">Faq</a></li>
+                        <li><a href="#">Contact Us</a></li>
+                    </ul>
+                </div>--%>
+            </div>
+        </div>
+          </footer>
+            <!--/#footer-->
+        </div>
+    </form>
+</body>
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.prettyPhoto.js"></script>
+<script src="js/jquery.isotope.min.js"></script>
+<script src="js/wow.min.js"></script>
+<script src="js/main.js"></script>
+</html>
