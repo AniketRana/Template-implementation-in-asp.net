@@ -98,7 +98,7 @@
                             <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
                         </div>
                     </div><!--/.col-md-4-->
-                </div><!--/.services-->
+                </div><!--/.services-->                  
             </div><!--/.row-->    
         </div><!--/.container-->
     </section>
