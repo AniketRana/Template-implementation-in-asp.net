@@ -13,7 +13,7 @@
     <div class="slider">
         <div class="container">
             <div id="about-slider">
-                <div id="carousel-slider" class="carousel slide" data-ride="carousel">
+                <div id="carousel-slider" class="carousel slide" data-ride="carousel">             
                     <!-- Indicators -->
                     <ol class="carousel-indicators visible-xs">              
                         <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
