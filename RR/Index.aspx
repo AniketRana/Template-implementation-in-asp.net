@@ -37,7 +37,7 @@
                     </a>
                 </div>
                 <!--/#carousel-slider-->
-            </div>
+            </div>              
             <!--/#about-slider-->
         </div>
     </div>
