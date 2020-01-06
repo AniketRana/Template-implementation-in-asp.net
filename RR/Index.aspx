@@ -11,7 +11,7 @@
     </style>                      
                                    
     <div class="slider">                                            
-        <div class="container">                  
+        <div class="container">                          
             <div id="about-slider">
                 <div id="carousel-slider" class="carousel slide" data-ride="carousel">             
                     <!-- Indicators -->
@@ -349,7 +349,5 @@
             </div><!--/.row-->
         </div><!--/.container-->
     </section>
-    <!--/#middle-->
-
-    
+    <!--/#middle-->        
 </asp:Content>
