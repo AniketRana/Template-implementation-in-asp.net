@@ -9,7 +9,7 @@
         padding-bottom:30px;  
     }                  
     </style>                                   
-                                          
+                                                     
     <div class="slider">                                            
         <div class="container">                          
             <div id="about-slider">
