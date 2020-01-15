@@ -11,8 +11,8 @@
     </style>                                            
                                                                         
     <div class="slider">                                            
-        <div class="container">                          
-            <div id="about-slider">
+        <div class="container">                                          
+            <div id="about-slider"> 
                 <div id="carousel-slider" class="carousel slide" data-ride="carousel">             
                     <!-- Indicators -->
                     <ol class="carousel-indicators visible-xs">              
