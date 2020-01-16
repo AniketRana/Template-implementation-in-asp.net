@@ -10,7 +10,7 @@
     }                   
     </style>                                            
                                                                         
-    <div class="slider">                                            
+    <div class="slider">                                                             
         <div class="container">                                          
             <div id="about-slider"> 
                 <div id="carousel-slider" class="carousel slide" data-ride="carousel">             
@@ -39,7 +39,7 @@
                 <!--/#carousel-slider-->
             </div>              
             <!--/#about-slider-->            
-        </div>
+        </div>       
     </div>
             
     <section id="feature">
