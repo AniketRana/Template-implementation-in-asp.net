@@ -162,7 +162,7 @@
                         </div>
                     </div>
                 </div>   
-                
+                           
                 <div class="col-xs-12 col-sm-4 col-md-3">
                     <div class="recent-work-wrap">
                         <img class="img-responsive" src="images/portfolio/recent/item5.png" alt="">
