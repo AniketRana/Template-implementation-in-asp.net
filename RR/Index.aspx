@@ -30,13 +30,13 @@
                         <div class="item">
                             <img src="images/slider_one.jpg" class="img-responsive" alt="">
                         </div>
-                    </div>
+                    </div> 
                     <a class="left carousel-control hidden-xs" href="#carousel-slider" data-slide="prev">
                         <i class="fa fa-angle-left"></i></a><a class=" right carousel-control hidden-xs"
                             href="#carousel-slider" data-slide="next"><i class="fa fa-angle-right"></i>
                     </a>
                 </div>
-                <!--/#carousel-slider-->
+                <!--/#carousel-slider--> 
             </div>              
             <!--/#about-slider-->            
         </div>                        
