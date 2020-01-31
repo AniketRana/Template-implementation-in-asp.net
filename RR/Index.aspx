@@ -8,8 +8,8 @@
         padding-top:30px;
         padding-bottom:30px;  
     }                   
-    </style>                                                                  
-                                                                        
+    </style>                                                                   
+                                                                         
     <div class="slider">                                                               
         <div class="container">                                          
             <div id="about-slider"> 
