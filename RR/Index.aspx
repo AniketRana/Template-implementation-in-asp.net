@@ -34,7 +34,7 @@
                     <a class="left carousel-control hidden-xs" href="#carousel-slider" data-slide="prev">
                         <i class="fa fa-angle-left"></i></a><a class=" right carousel-control hidden-xs"
                             href="#carousel-slider" data-slide="next"><i class="fa fa-angle-right"></i>
-                    </a>
+                    </a>        
                 </div>
                 <!--/#carousel-slider--> 
             </div>              
