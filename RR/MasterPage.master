@@ -20,7 +20,7 @@
     <script src="js/html5shiv.js"></script> 
     <script src="js/respond.min.js"></script>
     <![endif]-->
-</head>
+</head>      
 <body class="homepage">        
     <form id="form1" runat="server">
         <div>
@@ -75,20 +75,20 @@
                         </div>
                     </div>
                 </div>
-                <!--/.container-->
+                <!--/.container-->    
             </div>
             <!--/.top-bar-->
             <footer id="footer" class="midnight-blue">
         <div class="container">
-            <div class="row">
-                <div class="col-sm-12">
+            <div class="row"> 
+                <div class="col-sm-12"> 
                 <center>
                Copyright &copy; 2018 <a target="_blank" href="#SS" title="Thought Leadership | Business Transformation | Strategic Value Creator | Coach | Mentor | Learner"><b>Raakesh Rana</b></a>
                  Design & Develop by <font color="White" ><b> <a href="https://in.linkedin.com/in/aniketrana" >Aniket Rana</a>	</b></font>	 All Rights Reserved.
                  </center>
                 </div>
                 
-                <%--@ 2018 Coming Soon Raakesh Rana. Designed & Develop by <font color="White" ><b>Aniket Rana	</b></font>	--%>                <!-- 
+                <%--@ 2018 Coming Soon Raakesh Rana. Designed & Develop by <font color="White" ><b>Aniket Rana</b></font>	--%>                <!-- 
 
                     All links in the footer should remain intact. 
                     Licenseing information is available at: http://bootstraptaste.com/license/
@@ -115,4 +115,4 @@
 <script src="js/jquery.isotope.min.js"></script>
 <script src="js/wow.min.js"></script>
 <script src="js/main.js"></script>
-</html>
+</html> 
