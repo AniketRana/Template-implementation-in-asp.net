@@ -21,7 +21,7 @@
     <script src="js/respond.min.js"></script>
     <![endif]-->
 </head>      
-<body class="homepage">        
+<body class="homepage">                 
     <form id="form1" runat="server">
         <div>
             <header id="header">
