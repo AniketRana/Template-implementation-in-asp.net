@@ -62,7 +62,7 @@
                     <div class="col-md-4 col-sm-6 wow fadeInDown animated" data-wow-duration="1000ms" data-wow-delay="600ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 600ms; animation-name: fadeInDown;">
                         <div class="feature-wrap">
                             <i class="fa fa-comments"></i>
-                            <h2>Retina ready</h2>
+                            <h2>Retina ready</h2>           
                             <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
                         </div>         
                     </div><!--/.col-md-4-->
