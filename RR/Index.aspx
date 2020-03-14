@@ -40,7 +40,7 @@
             </div>              
             <!--/#about-slider-->            
         </div>                        
-    </div>
+    </div>              
                            
     <section id="feature">
         <div class="container">
