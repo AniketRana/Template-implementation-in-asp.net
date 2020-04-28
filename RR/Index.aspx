@@ -21,7 +21,7 @@
                         <li data-target="#carousel-slider" data-slide-to="2"></li>  
                     </ol>
                     <div class="carousel-inner">            
-                        <div class="item active">
+                        <div class="item active">     
                             <img src="images/slider_one.jpg" class="img-responsive" alt="">             
                         </div>            
                         <div class="item">         
