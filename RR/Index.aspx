@@ -5,7 +5,7 @@
     <style>
     section
     {
-        padding-top:30px;
+        padding-top:30px;   
         padding-bottom:30px;                
     }                       
     </style>                                                                                               
