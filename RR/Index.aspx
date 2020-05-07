@@ -3,45 +3,44 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
     <style>
-    section
-    {
-        padding-top:30px;   
-        padding-bottom:30px;                
-    }                       
-    </style>                                                                                               
-                                                                                                 
-    <div class="slider">                                                    
-        <div class="container">                                            
-            <div id="about-slider"> 
-                <div id="carousel-slider" class="carousel slide" data-ride="carousel">             
+        section {
+            padding-top: 30px;
+            padding-bottom: 30px;
+        }
+    </style>
+
+    <div class="slider">
+        <div class="container">
+            <div id="about-slider">
+                <div id="carousel-slider" class="carousel slide" data-ride="carousel">
                     <!-- Indicators -->
-                    <ol class="carousel-indicators visible-xs">               
+                    <ol class="carousel-indicators visible-xs">
                         <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
-                        <li data-target="#carousel-slider" data-slide-to="1"></li>                         
-                        <li data-target="#carousel-slider" data-slide-to="2"></li>  
+                        <li data-target="#carousel-slider" data-slide-to="1"></li>
+                        <li data-target="#carousel-slider" data-slide-to="2"></li>
                     </ol>
-                    <div class="carousel-inner">            
-                        <div class="item active">     
-                            <img src="images/slider_one.jpg" class="img-responsive" alt="">             
-                        </div>            
-                        <div class="item">         
+                    <div class="carousel-inner">
+                        <div class="item active">
                             <img src="images/slider_one.jpg" class="img-responsive" alt="">
                         </div>
                         <div class="item">
                             <img src="images/slider_one.jpg" class="img-responsive" alt="">
-                        </div>                  
-                    </div>    
+                        </div>
+                        <div class="item">
+                            <img src="images/slider_one.jpg" class="img-responsive" alt="">
+                        </div>
+                    </div>
                     <a class="left carousel-control hidden-xs" href="#carousel-slider" data-slide="prev">
                         <i class="fa fa-angle-left"></i></a><a class=" right carousel-control hidden-xs"
                             href="#carousel-slider" data-slide="next"><i class="fa fa-angle-right"></i>
-                    </a>        
+                        </a>
                 </div>
-                <!--/#carousel-slider--> 
-            </div>              
-            <!--/#about-slider-->            
-        </div>                        
-    </div>              
-                           
+                <!--/#carousel-slider-->
+            </div>
+            <!--/#about-slider-->
+        </div>
+    </div>
+
     <section id="feature">
         <div class="container">
            <div class="center wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
@@ -217,7 +216,7 @@
             </div><!--/.row-->
         </div><!--/.container-->
     </section>
-    
+
     <section id="middle">
         <div class="container">
             <div class="row">
@@ -349,5 +348,5 @@
             </div><!--/.row-->
         </div><!--/.container-->
     </section>
-    <!--/#middle-->        
+    <!--/#middle-->
 </asp:Content>
